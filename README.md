@@ -8,3 +8,5 @@ This tutorial contains a sample code for each of the machine learning technique 
 5.Naive Bayes 
 6.SVM 
 7.Text Mining and NLP
+### Deep learning modules will be added later
+##path : /Users/vnesanuru/MLExamples
